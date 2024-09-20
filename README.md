@@ -11,9 +11,9 @@ Firebase Integration: Implements both Firebase Realtime Database and Firestore f
 ##Application Screenshots
 <p align="center"> 
 <img src="https://github.com/official-shashi/Student-Attendance/blob/main/assets/screenshot/SS1.jpg" alt="Show App Icon Android & Ios" width="200"/> 
-<img src="https://github.com/official-shashi/Student-Attendance/blob/main/assets/screenshot/SS2.jpg1" alt="Add Student Screen" width="200"/> 
-<img src="https://github.com/official-shashi/Student-Attendance/blob/main/assets/screenshot/SS3.jpg" alt="Student List Screen" width="200"/> 
-<img src="https://github.com/official-shashi/Student-Attendance/blob/main/assets/screenshot/SS4.jpg" alt="Student Data Delete Screen" width="200"/> 
+<img src="https://github.com/official-shashi/Student-Attendance/blob/main/assets/screenshot/SS2.png" alt="Add Student Screen" width="200"/> 
+<img src="https://github.com/official-shashi/Student-Attendance/blob/main/assets/screenshot/SS3.png" alt="Student List Screen" width="200"/> 
+<img src="https://github.com/official-shashi/Student-Attendance/blob/main/assets/screenshot/SS4.png" alt="Student Data Delete Screen" width="200"/> 
 </p>
 
 ##Development Resources
