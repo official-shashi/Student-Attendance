@@ -21,6 +21,6 @@ This app was developed using insights from Shivam Gupta’s YouTube tutorial, wh
 
 ##Useful Links
 YouTube Tutorial: [Watch Now](https://youtu.be/54kzWxQzFAc?si=cbUeDLIsHM7XpLpx)
-Download APK: [Download]([https://youtu.be/54kzWxQzFAc?si=cbUeDLIsHM7XpLpx](https://github.com/official-shashi/Student-Attendance/blob/main/assets/apk/app-release.apk))
+Download APK: [Download](https://github.com/official-shashi/Student-Attendance/blob/main/assets/apk/app-release.apk)
 
 
