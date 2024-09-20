@@ -3,10 +3,10 @@
 Welcome to the Student Attendance app repository! This Flutter application enables users to efficiently manage student information, track attendance, and utilize Firebase for data storage.
 
 ## Key Features
-1. **Student Management: Easily add students with details like name, age, and roll number.
-2. **Attendance Tracking: View the list of students and mark their attendance as "Present" or "Absent."
-3. **CRUD Operations: Update and delete student records seamlessly.
-4. **Firebase Integration: Implements both Firebase Realtime Database and Firestore for robust data handling.
+1. Student Management: Easily add students with details like name, age, and roll number.
+2. Attendance Tracking: View the list of students and mark their attendance as "Present" or "Absent."
+3. CRUD Operations: Update and delete student records seamlessly.
+4. Firebase Integration: Implements both Firebase Realtime Database and Firestore for robust data handling.
 
 ## Application Screenshots
 <p align="center"> 
