@@ -10,9 +10,10 @@ Firebase Integration: Implements both Firebase Realtime Database and Firestore f
 
 ##Application Screenshots
 <p align="center"> 
-<img src="your-screenshot-url-3" alt="Show App Icon Android & Ios" width="200"/> 
-<img src="your-screenshot-url-1" alt="Add Student" width="200"/> 
-<img src="your-screenshot-url-2" alt="Student List" width="200"/> 
+<img src="https://github.com/official-shashi/Student-Attendance/blob/main/assets/screenshot/SS1.jpg" alt="Show App Icon Android & Ios" width="200"/> 
+<img src="https://github.com/official-shashi/Student-Attendance/blob/main/assets/screenshot/SS2.jpg1" alt="Add Student Screen" width="200"/> 
+<img src="https://github.com/official-shashi/Student-Attendance/blob/main/assets/screenshot/SS3.jpg" alt="Student List Screen" width="200"/> 
+<img src="https://github.com/official-shashi/Student-Attendance/blob/main/assets/screenshot/SS4.jpg" alt="Student Data Delete Screen" width="200"/> 
 </p>
 
 ##Development Resources
@@ -20,6 +21,6 @@ This app was developed using insights from Shivam Gupta’s YouTube tutorial, wh
 
 ##Useful Links
 YouTube Tutorial: [Watch Now](https://youtu.be/54kzWxQzFAc?si=cbUeDLIsHM7XpLpx)
-Download APK: [Download](https://youtu.be/54kzWxQzFAc?si=cbUeDLIsHM7XpLpx)
+Download APK: [Download]([https://youtu.be/54kzWxQzFAc?si=cbUeDLIsHM7XpLpx](https://github.com/official-shashi/Student-Attendance/blob/main/assets/apk/app-release.apk))
 
 
